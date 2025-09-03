@@ -51,8 +51,7 @@
 
 ---
 
-# 🐍 GitHub Contribution Snake
-![snake animation](https://github.com/MahmoudMohamedAbdelgelil125/MahmoudMohamedAbdelgelil125/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
