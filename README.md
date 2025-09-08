@@ -1,59 +1,47 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%2C%20I'm%20Mahmoud!&animation=fadeIn&type=waving&color=gradient&height=150" alt="Header"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=Mahmoud%20Mohamed&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=88)
 
-# 👨‍💻 About Me
-- 🎓 Computer Science student passionate about technology  
-- 💻 Specializing in **Backend Development** and **Machine Learning**  
-- ⚙️ Technologies: **Django, ASP.NET Core, MVC, Entity Framework Core**  
-- 🧠 ML Tools: **TensorFlow, PyTorch, OpenCV**  
-- 🌱 I love **learning, exploring, and favorite tech**  
+# 🖥️ Backend Development Skillset
+## ⚙️ Core Backend Frameworks
+- **Django** (REST Framework, ORM, Authentication, API Development)
+- **ASP.NET Core (MVC + Entity Framework Core)**
+- **Database Management** (SQL Server, PostgreSQL, MySQL)
 
----
+## 🏛️ Software Architecture & Design
+- Design Patterns (Repository, Unit of Work, MVC, Layered Architecture)
+- REST API Design & Documentation
+- Authentication & Authorization (JWT, Role-based Access)
 
-# 🌱 Currently Learning
-- 🚀 Advanced ASP.NET Core & Entity Framework  
-- 🏛️ Software Architecture & Design Patterns  
-- 🐳 Docker & Kubernetes for DevOps  
+## 🐳 DevOps & Tools
+- Docker containerization
+- CI/CD with GitHub Actions
+- Version Control: Git & GitHub
+- Basic Kubernetes (learning)
 
----
+# 🧠 Machine Learning & Data Science
+- Frameworks: **TensorFlow, PyTorch**
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Computer Vision: **OpenCV**
+- Building and deploying ML models into backend systems
 
-# 💬 Ask Me About
-- Backend Development (ASP.NET Core, Django, MVC, EF Core)  
-- Machine Learning Models  
-- Databases (SQL, PostgreSQL, MySQL)  
-- DevOps Tools (Docker, Git, CI/CD)  
-
----
-
-# 🛠️ Tech Stack
-<p align="left">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
+# 🛠️ Tech Stack (Quick Icons)
+![Stack](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,postgresql,sqlserver,python,csharp,tensorflow,pytorch,opencv,docker,git)
 
 # 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMohamedAbdelgelil125&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMohamedAbdelgelil125&layout=compact&theme=radical" height="165" />
-</p>
+<a href="https://github.com/MahmoudMohamedAbdelgelil125" style="text-decoration: none;">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudMohamedAbdelgelil125&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=25,2B2C59,1C314D&card_width=300" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMohamedAbdelgelil125&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=25,1C314D,2B2C59&card_width=300" />
+</a>
 
----
+# 🌱 Currently Learning
+- Advanced ASP.NET Core & Entity Framework Core  
+- Software Architecture & Design Patterns  
+- Docker & Kubernetes for scalable deployments  
 
-
-
----
+# 💬 Ask Me About
+- Backend Development (ASP.NET Core, Django, EF Core, MVC)  
+- Databases & Query Optimization (SQL, PostgreSQL, MySQL)  
+- Machine Learning Integration in Backend Systems  
+- DevOps Tools (Docker, CI/CD, GitHub Actions)  
 
 # 🌐 Connect With Me
 <p align="center">
