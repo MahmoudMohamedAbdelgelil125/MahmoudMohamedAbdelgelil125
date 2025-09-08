@@ -1,49 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,19,20,24&text=Mahmoud%20Mohamed&section=header&reversal=false&fontSize=48&textBg=false&animation=fadeIn&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=88)
+<h3 align="center">
+  السلام عليكم — As-salamu alaykum
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-# 🖥️ Backend Development Skillset
-## ⚙️ Core Backend Frameworks
-- **Django** (REST Framework, ORM, Authentication, API Development)
-- **ASP.NET Core (MVC + Entity Framework Core)**
-- **Database Management** (SQL Server, PostgreSQL, MySQL)
+<p align="center">
+  <img src="whois.gif" alt="typing" />
+</p>
 
-## 🏛️ Software Architecture & Design
-- Design Patterns (Repository, Unit of Work, MVC, Layered Architecture)
-- REST API Design & Documentation
-- Authentication & Authorization (JWT, Role-based Access)
+### 🔧 &nbsp;Backend & ML — Tools I Use
 
-## 🐳 DevOps & Tools
-- Docker containerization
-- CI/CD with GitHub Actions
-- Version Control: Git & GitHub
-- Basic Kubernetes (learning)
+![Backend & ML Skills](https://skillicons.dev/icons?i=python,django,dotnet,postgresql,sqlserver,nginx,docker,kubernetes,ansible,git,githubactions,pytorch,tensorflow,opencv&perline=7)
 
-# 🧠 Machine Learning & Data Science
-- Frameworks: **TensorFlow, PyTorch**
-- Data Analysis: Pandas, NumPy, Matplotlib
-- Computer Vision: **OpenCV**
-- Building and deploying ML models into backend systems
+### 📌 &nbsp;About Me (Backend + ML)
+- Senior Computer Science student focused on **Backend Development** and **Machine Learning**.  
+- I design and deploy **scalable APIs**, build **ML pipelines**, and optimize data-driven systems for production.  
+- Interests: system architecture, model deployment, data engineering, and code quality automation.
 
-# 🛠️ Tech Stack (Quick Icons)
-![Stack](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,postgresql,sqlserver,python,csharp,tensorflow,pytorch,opencv,docker,git)
+### 📊 &nbsp;GitHub Activity
+<p align="center">
+  <a href="https://github.com/MahmoudMohamedAbdelgelil125">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudMohamedAbdelgelil125&show_icons=true&theme=radical" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMohamedAbdelgelil125&layout=compact&theme=radical" />
+  </a>
+</p>
 
-# 📊 GitHub Stats
-<a href="https://github.com/MahmoudMohamedAbdelgelil125" style="text-decoration: none;">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudMohamedAbdelgelil125&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=25,2B2C59,1C314D&card_width=300" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMohamedAbdelgelil125&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=25,1C314D,2B2C59&card_width=300" />
-</a>
+### 🚀 &nbsp;Focused Projects
+- **AI Code Quality Assessor** — ML tool for predicting maintainability and automating code review recommendations.  
+- **GradeA_Elearning** — backend APIs, attendance & progress tracking, accessibility-focused features.  
+- **E-commerce Inventory (ASP.NET Core)** — role-based access, EF Core, pagination & filters.
 
-# 🌱 Currently Learning
-- Advanced ASP.NET Core & Entity Framework Core  
-- Software Architecture & Design Patterns  
-- Docker & Kubernetes for scalable deployments  
-
-# 💬 Ask Me About
-- Backend Development (ASP.NET Core, Django, EF Core, MVC)  
-- Databases & Query Optimization (SQL, PostgreSQL, MySQL)  
-- Machine Learning Integration in Backend Systems  
-- DevOps Tools (Docker, CI/CD, GitHub Actions)  
-
-# 🌐 Connect With Me
+### 🌐 &nbsp;Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-mohamed-9097a8280/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
