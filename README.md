@@ -13,7 +13,7 @@
 
 # 👨‍💻 About Me
 - 🎓 Senior Computer Science Student @ Nile University  
-- 💻 Passionate about **Backend Engineering** with **ASP.NET Core**  
+- 💻 Passionate about **Software engineering** with **ASP.NET Core**  
 - 🛠️ Building scalable APIs, database-driven apps, and management systems  
 - 🚀 Interested in **clean architecture, cloud deployment, and microservices**  
 
@@ -42,17 +42,7 @@
 - Razor Pages  
 - HTML, CSS, JavaScript  
 
----
 
-# 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/MahmoudMohamedAbdelgelil125">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudMohamedAbdelgelil125&show_icons=true&theme=radical" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMohamedAbdelgelil125&layout=compact&theme=radical" />
-  </a>
-</p>
-
----
 
 # 🌐 Connect With Me
 <p align="center">
