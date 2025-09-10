@@ -22,10 +22,9 @@
 # 🛠️ Tech Stack
 
 ### 🚀 Backend & Frameworks
-- **ASP.NET Core 
+- **ASP.NET Core**
 - **Entity Framework Core**
 - **Django**
-- 
 - RESTful API Development
 - Authentication & Authorization (JWT, Identity)
 
