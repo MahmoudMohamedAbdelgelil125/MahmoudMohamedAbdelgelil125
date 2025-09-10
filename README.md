@@ -13,11 +13,11 @@
 
 # 👨‍💻 About Me
 - 🎓 Senior Computer Science Student @ Nile University  
-- 💻 Passionate about **Software engineering** 
+- 💻 Passionate about *Software engineering*
 - 🛠️ Building scalable APIs, database-driven apps, and management systems  
 - 🚀 Interested in **clean architecture, cloud deployment, and microservices**  
 
----
+
 
 # 🛠️ Tech Stack
 
