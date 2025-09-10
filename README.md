@@ -13,7 +13,7 @@
 
 # 👨‍💻 About Me
 - 🎓 Senior Computer Science Student @ Nile University  
-- 💻 Passionate about **Software engineering** with **ASP.NET Core**  
+- 💻 Passionate about **Software engineering** 
 - 🛠️ Building scalable APIs, database-driven apps, and management systems  
 - 🚀 Interested in **clean architecture, cloud deployment, and microservices**  
 
@@ -22,8 +22,10 @@
 # 🛠️ Tech Stack
 
 ### 🚀 Backend & Frameworks
-- **ASP.NET Core / .NET 6+**
+- **ASP.NET Core 
 - **Entity Framework Core**
+- **Django**
+- 
 - RESTful API Development
 - Authentication & Authorization (JWT, Identity)
 
